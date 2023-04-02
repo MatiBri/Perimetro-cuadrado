@@ -1,0 +1,7 @@
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\PerimetroCuadrado\PerimetroCuadrado\bin\Debug\PerimetroCuadrado.exe.config
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\PerimetroCuadrado\PerimetroCuadrado\bin\Debug\PerimetroCuadrado.exe
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\PerimetroCuadrado\PerimetroCuadrado\bin\Debug\PerimetroCuadrado.pdb
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\PerimetroCuadrado\PerimetroCuadrado\obj\Debug\PerimetroCuadrado.csprojAssemblyReference.cache
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\PerimetroCuadrado\PerimetroCuadrado\obj\Debug\PerimetroCuadrado.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\PerimetroCuadrado\PerimetroCuadrado\obj\Debug\PerimetroCuadrado.exe
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\PerimetroCuadrado\PerimetroCuadrado\obj\Debug\PerimetroCuadrado.pdb
